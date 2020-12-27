@@ -12,7 +12,7 @@
     "extract_dir": "PowerToys",
     "shortcuts": [
         [
-            "PowerToys.exe",
+            "PowerToysSetup-0.27.1-x64.exe",
             "PowerToys"
         ]
     ],
